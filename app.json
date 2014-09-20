@@ -1,0 +1,7 @@
+{
+  "name": "heya",
+  "description": "How're you doin!",
+  "repository": "https://github.com/dennisheaney/heya.git",
+  "logo": "http://dennisheaney.com/sites/all/themes/zenden-0.1.4/logo.png",
+  "keywords": ["node", "heroku", "twitter"]
+}
